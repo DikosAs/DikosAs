@@ -1,6 +1,6 @@
 # My GitHub
 
-- 👋 Hi, I’m @DikosAs
+- 👋 Hi, I’m Marsh Meg
 - 👀 I’m interested in Python
 
 <!---
